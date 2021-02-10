@@ -20,7 +20,7 @@
     <meta name="msapplication-TileColor" content="#5c4f56">
     <meta name="theme-color" content="#d51749">
 
-    <meta property="og:title" content="Paineiras | ACINCO">
+    <meta property="og:title" content="Jequitiba | ACINCO">
     <meta property="og:site_name" content="">
     <meta property="og:url" content="https://acinco.eng.br/forms/paineiras">
     <meta property="og:description" content="Novo empreendimento ACINCO">
@@ -38,7 +38,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsivo.css">
 
-    <title>Paineiras | ACINCO</title>
+    <title>Jequitiba | ACINCO</title>
 
     <link rel="shortcut icon" href="http://acinco.eng.br/spot/images/favicon.png">    
 </head>
