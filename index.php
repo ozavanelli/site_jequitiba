@@ -14,15 +14,15 @@
 
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
-    <link rel="manifest" href="site.webmanifest">
-    <link rel="mask-icon" href="safari-pinned-tab.svg" color="#d51749">
-    <meta name="msapplication-TileColor" content="#5c4f56">
-    <meta name="theme-color" content="#d51749">
+    <link rel="icon" type="image/png" sizes="16x16" href="/avicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
 
-    <meta property="og:title" content="Jequitiba | ACINCO">
+    <meta property="og:title" content="Jequitibá | ACINCO">
     <meta property="og:site_name" content="">
-    <meta property="og:url" content="https://acinco.eng.br/forms/paineiras">
+    <meta property="og:url" content="https://acinco.eng.br/jequitiba">
     <meta property="og:description" content="Novo empreendimento ACINCO">
     <meta property="og:type" content="place">
     <meta property="og:image" content="https://acinco.eng.br/img/og_paineiras.png">
@@ -38,7 +38,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsivo.css">
 
-    <title>Jequitiba | ACINCO</title>
+    <title>Jequitibá | ACINCO</title>
 
     <link rel="shortcut icon" href="http://acinco.eng.br/spot/images/favicon.png">    
 </head>
@@ -66,7 +66,7 @@
                             <li><input type="email" name="email" placeholder="E-mail" required /></li>
                             <li><input type="text" name="cidade" placeholder="Cidade" required /></li>
                             <li><input type="tel" name="fone" placeholder="Telefone" minlength="14" class="fone" required /></li>
-                            <li><input type="hidden" name="tag" value="Captação Paineiras" /></li>
+                            <li><input type="hidden" name="tag" value="Captação Jequitiba" /></li>
                         </ul>
                         <button type="submit" name="submit" value="ENVIAR" class="btn" id="btn"><span>ENVIAR</span> <i class="far fa-paper-plane fa-lg"></i></button>
                     </form>
@@ -93,6 +93,6 @@
     <script>
         new WOW().init();
     </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDu3QHWnooXusOfdmJyknelcnyg5fKzZTg&callback=initMap" async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBY-H9wnHnowVYbWsivRVDrm7ZwogDVW-w&callback=initMap" async defer></script>
 </body>
 </html>
