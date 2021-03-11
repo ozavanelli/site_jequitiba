@@ -1,7 +1,7 @@
 @media only screen and (min-width: 960px) and (max-width: 1160px) {
     .introducao {
-        height: -webkit-fill-available;
-        background: url("../img/bg_introducao_tablet_h.jpg") no-repeat center;
+        /* height: -webkit-fill-available; */
+        background: url("../img/bg_introducao.jpg") no-repeat center;
         background-size: cover;
     }
 
@@ -15,8 +15,8 @@
     }
 
     .introducao {
-        height: -webkit-fill-available;
-        background: url("../img/bg_introducao_tablet_v.jpg") no-repeat center;
+        /* height: -webkit-fill-available; */
+        background: url("../img/bg_introducao.jpg") no-repeat center;
         background-size: cover;
     }
 }
@@ -24,9 +24,14 @@
 @media only screen and (max-width: 767px) {
 
     .introducao {
-        height: -webkit-fill-available !important;
+        /* height: -webkit-fill-available !important; */
         background: url("../img/bg_introducao_mobile.jpg") no-repeat center;
         background-size: cover;
+    }
+
+    .introducao .desk_only {
+        display: none;
+        visibility: hidden;
     }
 
     .flex {

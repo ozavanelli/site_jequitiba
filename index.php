@@ -25,7 +25,7 @@
     <meta property="og:url" content="https://acinco.eng.br/jequitiba">
     <meta property="og:description" content="Novo empreendimento ACINCO">
     <meta property="og:type" content="place">
-    <meta property="og:image" content="https://acinco.eng.br/img/og_paineiras.png">
+    <meta property="og:image" content="https://acinco.eng.br/img/og_jequitiba.png">
 
     <script src="https://kit.fontawesome.com/d88b10da32.js"></script>
     <script src="js/jquery-3.4.1.min.js"></script>
@@ -37,6 +37,9 @@
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsivo.css">
+    <link rel="stylesheet" href="css/all.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
 
     <title>Jequitibá | ACINCO</title>
 
@@ -44,8 +47,8 @@
 </head>
 <body>
     <section class="introducao">
-        <div class="saiba_mais">
-            <a href="#container_form">SAIBA MAIS</a>
+        <div class="saiba_mais desk_only">
+            <a class="animate__animated animate__pulse animate__infinite" href="#container_form"><i class="fal fa-angle-double-down"></i></a>
         </div>
     </section>
 
